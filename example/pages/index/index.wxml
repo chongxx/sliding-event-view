@@ -1,0 +1,7 @@
+<sliding-event-view
+  s-class="my-class"
+  bind:onSliding="onSliding">
+  <view style="width: 100%;height: 100%;display: flex; justify-content: center; align-items: center; text-align: center; font-size: 60rpx; font-weight: bold;">
+    Sliding-event-view Example
+  </view>
+</sliding-event-view>

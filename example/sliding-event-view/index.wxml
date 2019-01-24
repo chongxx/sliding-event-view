@@ -1,0 +1,7 @@
+<view
+  class="s-class"
+  bind:touchstart="touchStart"
+  bind:touchmove="touchMove"
+  bind:touchend="touchEnd">
+ <slot></slot>
+</view>

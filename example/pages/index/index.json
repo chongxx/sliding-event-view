@@ -1,0 +1,5 @@
+{
+  "usingComponents": {
+    "sliding-event-view": "../../sliding-event-view/index"
+  }
+}
